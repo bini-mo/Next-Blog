@@ -10,7 +10,7 @@ export default function Home() {
           Welcome to <span className="text-yellow-300">Bini Blog</span>
         </h1>
         <p className="text-xl md:text-2xl max-w-xl mb-8">
-         Only My Opinions Matter!
+         Welcome To My Blog!!
         </p>
         <Link
           href="/blog"
